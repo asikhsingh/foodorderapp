@@ -20,3 +20,5 @@ const price = `$${props.price.toFixed(2)}`;
 }
 
 export default MealItem
+
+// punjabi
